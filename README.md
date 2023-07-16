@@ -20,17 +20,6 @@
 
   <h2 align="left">📚 Stacks</h2>
 
-  <div>
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api?username=pimleonardo&show_icons=true&count_private=true&theme=radical"
-    />
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimleonardo&hide_progress=true&theme=radical&count_private=true&hide=HACK&langs_count=8)](https://github.com/pimleonardo/github-readme-stats"
-    />
-  </div>
-
   <div style="display: inline_block">
     <img
       align="center"
