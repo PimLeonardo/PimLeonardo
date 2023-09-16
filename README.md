@@ -4,7 +4,7 @@
     src="https://media.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif"
   />
 
-  <h1>👋 Meu nome é Leonardo, sou desenvolvedor Front-end.</h1>
+  <h1>👋 Meu nome é Leonardo, sou Web Developer.</h1>
 
   <h2 align="left">👨‍💻 About</h2>
 
